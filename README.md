@@ -4,7 +4,7 @@
 > For proper equation rendering, please view this documentation in day mode instead of night mode. 
 
 
-<details><summary> <b>Upcoming talk.</b> Antti Kykkänen @ Nov 13, 2025, 13:00 GMT (click to view title and abstract) </summary> 
+<details><summary> <b>Upcoming talk.</b> Giovanni Covi @ Nov 13, 2025, 13:00 GMT (click to view title and abstract) </summary> 
   <b>Title.</b> TBA <br> 
   <b>Abstract.</b> TBA 
 </details>
@@ -39,7 +39,8 @@ To foster engagement and discussion, the seminar will follow this structure:
 
 | date and time | Speaker| 
 |:----|:----|
-|Nov 13, 2025 <br> 13:00 GMT| Antti Kykkänen <br> <details><summary> (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |    
+|Nov 27, 2025 <br> 13:00 GMT| <details><summary> Antti Kykkänen (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> | 
+|Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |
 
 <!---
 ![\LaTeX](https://latex.codecogs.com/png.image?\dpi{110}\LaTeX)
