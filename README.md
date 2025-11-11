@@ -5,8 +5,8 @@
 
 
 <details><summary> <b>Upcoming talk.</b> Giovanni Covi @ Nov 13, 2025, 13:00 GMT (click to view title and abstract) </summary> 
-  <b>Title.</b> TBA <br> 
-  <b>Abstract.</b> TBA 
+  <b>Title.</b> Nonlocality in Inverse problems <br> 
+  <b>Abstract.</b> We will discuss the use of nonlocality in inverse problems for partial differential equations. In particular, we will see the example of the fractional Calderón problem, which can be solved in any dimension and with partial data by making use of the unique continuation property of the fractional Laplacian. We will also discuss recent developments in this direction. 
 </details>
 
 **The Zoom link will be sent to all members of the seminar mailing list prior to each talk. To request inclusion on the list, please contact the IPYA secretary, [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), on behalf of the organizing committee.** 
@@ -40,7 +40,7 @@ To foster engagement and discussion, the seminar will follow this structure:
 | date and time | Speaker| 
 |:----|:----|
 |Nov 27, 2025 <br> 13:00 GMT| <details><summary> Antti Kykkänen (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> | 
-|Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |
+|Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** Nonlocality in Inverse problems <br> **Abstract.** We will discuss the use of nonlocality in inverse problems for partial differential equations. In particular, we will see the example of the fractional Calderón problem, which can be solved in any dimension and with partial data by making use of the unique continuation property of the fractional Laplacian. We will also discuss recent developments in this direction. </details> |
 
 <!---
 ![\LaTeX](https://latex.codecogs.com/png.image?\dpi{110}\LaTeX)
