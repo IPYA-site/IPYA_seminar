@@ -39,7 +39,7 @@ To foster engagement and discussion, the seminar will follow this structure:
 
 | date and time | Speaker| 
 |:----|:----|
-|Nov 27, 2025 <br> 13:00 GMT| <details><summary>  (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> | 
+|Nov 27, 2025 <br> 13:00 GMT| <details><summary>  TBA (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> | 
 |Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** Nonlocality in Inverse problems <br> **Abstract.** We will discuss the use of nonlocality in inverse problems for partial differential equations. In particular, we will see the example of the fractional Calderón problem, which can be solved in any dimension and with partial data by making use of the unique continuation property of the fractional Laplacian. We will also discuss recent developments in this direction. </details> |
 
 <!---
