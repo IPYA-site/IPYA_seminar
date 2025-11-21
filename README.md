@@ -42,7 +42,7 @@ To foster engagement and discussion, the seminar will follow this structure:
 
 
 | date and time | Speaker| 
-|:----|:----:|
+|:----|:----|
 |Nov 27, 2025 <br> 13:00 GMT| <details><summary>  Janne Nurminen (click to view title and abstract) </summary> **Title.** An inverse problem for the prescribed mean curvature equation <br> **Abstract.** In this talk I will formulate an inverse source problem for the prescribed mean curvature equation (PMC) <br> ![{\rm%20div}\bigg(\frac{\nabla%20u}{\sqrt{1+\lvert\nabla%20u\rvert^2}\bigg)=H](https://latex.codecogs.com/png.image?\dpi{110}{\rm%20div}\bigg(\frac{\nabla%20u}{\sqrt{1+\lvert\nabla%20u\rvert^2}}\bigg)=H.) <br> The question is if from boundary measurements one can determine the mean curvature ![H](https://latex.codecogs.com/png.image?\dpi{110}H). The talk is based on joint work with Tony Liimatainen ([arXiv:2509.22078](https://arxiv.org/abs/2509.22078)) and we show that it is indeed possible to recover ![H](https://latex.codecogs.com/png.image?\dpi{110}H). I will discuss the outline and main ideas behind the proof. </details> | 
 |Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** Nonlocality in Inverse problems <br> **Abstract.** We will discuss the use of nonlocality in inverse problems for partial differential equations. In particular, we will see the example of the fractional Calderón problem, which can be solved in any dimension and with partial data by making use of the unique continuation property of the fractional Laplacian. We will also discuss recent developments in this direction. </details> |
 
