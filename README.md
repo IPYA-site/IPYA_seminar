@@ -4,9 +4,9 @@
 > For proper equation rendering, please view this documentation in day mode instead of night mode. 
 
 
-<details><summary> <b>Upcoming talk.</b> Antti Kykkänen @ Dec 11, 2025, 13:00 GMT (click to view title and abstract) </summary> 
-  <b>Title.</b> Geometrization of Elasticity and Ray Tomography Problems <br> 
-  <b>Abstract.</b> This talk has two parts. The first part discusses geometrization of elasticity for purposes of inverse problems. I will introduce and discuss analytic and algebraic tools for studying elastic geometry. The second part of the talk is dedicated to the study of inverse problems for a class of integral ray transforms arising from the linearization of elastic travel time data.
+<details><summary> <b>Upcoming talk.</b> TBA @ Jan 8, 2026, 13:00 GMT (click to view title and abstract) </summary> 
+  <b>Title.</b> TBA <br> 
+  <b>Abstract.</b> TBA 
 </details>
 
 **The Zoom link will be sent to all members of the seminar mailing list prior to each talk. To request inclusion on the list, please contact the IPYA secretary, [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), on behalf of the organizing committee.** 
@@ -39,6 +39,7 @@ To foster engagement and discussion, the seminar will follow this structure:
 
 | date and time | Speaker| 
 |:----|:----|
+|Jan 8, 2026 <br> 13:00 GMT| <details><summary> TBA (click to view title and abstract) </summary> **Title.** TBA <br> **Abstract.** TBA </details> |
 |Dec 11, 2025 <br> 13:00 GMT| <details><summary> Antti Kykkänen (click to view title and abstract) </summary> **Title.** Geometrization of Elasticity and Ray Tomography Problems <br> **Abstract.** This talk has two parts. The first part discusses geometrization of elasticity for purposes of inverse problems. I will introduce and discuss analytic and algebraic tools for studying elastic geometry. The second part of the talk is dedicated to the study of inverse problems for a class of integral ray transforms arising from the linearization of elastic travel time data. </details> |
 |Nov 27, 2025 <br> 13:00 GMT| <details><summary>  Janne Nurminen (click to view title and abstract) </summary> **Title.** An inverse problem for the prescribed mean curvature equation <br> **Abstract.** In this talk I will formulate an inverse source problem for the prescribed mean curvature equation (PMC) <br> ![{\rm%20div}\bigg(\frac{\nabla%20u}{\sqrt{1+\lvert\nabla%20u\rvert^2}\bigg)=H](https://latex.codecogs.com/png.image?\dpi{110}{\rm%20div}\bigg(\frac{\nabla%20u}{\sqrt{1+\lvert\nabla%20u\rvert^2}}\bigg)=H.) <br> The question is if from boundary measurements one can determine the mean curvature ![H](https://latex.codecogs.com/png.image?\dpi{110}H). The talk is based on joint work with Tony Liimatainen ([arXiv:2509.22078](https://arxiv.org/abs/2509.22078)) and we show that it is indeed possible to recover ![H](https://latex.codecogs.com/png.image?\dpi{110}H). I will discuss the outline and main ideas behind the proof. </details> | 
 |Nov 13, 2025 <br> 13:00 GMT| <details><summary> Giovanni Covi (click to view title and abstract) </summary> **Title.** Nonlocality in Inverse problems <br> **Abstract.** We will discuss the use of nonlocality in inverse problems for partial differential equations. In particular, we will see the example of the fractional Calderón problem, which can be solved in any dimension and with partial data by making use of the unique continuation property of the fractional Laplacian. We will also discuss recent developments in this direction. </details> |
