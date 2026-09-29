@@ -13,7 +13,7 @@
 
 Kindly note that a Zoom license is required only for the host. All speakers and participants may join directly using the emailed link.
 
-**Organizers.** [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
+**Organizers.** [Samira Kabri](https://samirak98.github.io/), [Pu-Zhao Kow](https://puzhaokow1993.github.io/homepage/), Ping Liu, [Suman Kumar Sahoo](https://sites.google.com/view/suman-sahoo-math-inverse), [Yaohua Zang](https://yaohua32.github.io/)
 
 > [!NOTE]
 > 1. The participants will be muted upon entry.
